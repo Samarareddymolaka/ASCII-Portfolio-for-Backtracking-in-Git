@@ -1,0 +1,19 @@
+
+
+            ___________
+           /           \
+          /             \
+         |    === ===    |
+        C|    O     O    |C
+         |               |
+         |               |
+          \        >    /
+           |           |
+           | MMMMMMMMM |
+           |   -----   |
+            \  MMMMM  /
+             \__MMM__/
+                MMM
+
+November 1, 2023
+M. Samarasimha Reddy
